@@ -19,7 +19,7 @@ import AddOns from "./pages/flights/AddOns";
 import Payment from "./pages/flights/Payment";
 import BookingSuccess from "./pages/flights/BookingSuccess";
 import Hotels from "./pages/Hotels";
-import HotelResults from "./pages/hotels/HotelResults";
+import HotelResults from "./pages/hotels/Hotelresults";
 import ManageBooking from "./pages/ManageBooking";
 import Insurance from "./pages/Insurance";
 import MICE from "./pages/MICE";
